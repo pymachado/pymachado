@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pymachado
-- 👀 I’m interested in DLT and Blockchains technologies.
+- 👀 I’m interested in DLT and Blockchain technologies.
 - 🌱 I’m currently working on develop different DEFI protocolos.
 - 📫 How to reach me https://www.linkedin.com/in/petermacblockchain/
 
