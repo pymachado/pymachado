@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pymachado
+- 👋 Hi, I’m Pedro Machado
 - 👀 I’m interested in DLT and Blockchain technologies.
 - 🌱 I’m currently working on develop different DEFI protocolos.
 - 📫 How to reach me https://www.linkedin.com/in/petermacblockchain/
